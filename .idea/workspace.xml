@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cbb54eb-0336-4b48-bfcc-75de3f6f3d42" name="Changes" comment="testing">
-      <change afterPath="$PROJECT_DIR$/final tesing.py" afterDir="false" />
+    <list default="true" id="5cbb54eb-0336-4b48-bfcc-75de3f6f3d42" name="Changes" comment="final testing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,11 +95,20 @@
       <option name="project" value="LOCAL" />
       <updated>1718604364795</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="final testing">
+      <option name="closed" value="true" />
+      <created>1718604601635</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718604601635</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing" />
+    <MESSAGE value="final testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="final testing" />
   </component>
 </project>
