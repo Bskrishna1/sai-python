@@ -1,7 +1,4 @@
-list_new = [10,20,30,40,50,60]
-print(list_new [3:])
+input_string = "abcdefghi"
 
-list1=['a','b','c']
-print('a' in list1)
-
-print(len(list1))
+for i in range(len(input_string)):
+    print(input_string[:len(input_string)-i])
